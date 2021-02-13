@@ -1,0 +1,9 @@
+hello:
+    message: Hi hello service DEV from GIT!
+
+spring:
+    rabbitmq:
+        host: localhost
+        password: guest
+        port: 5672
+        username: guest
